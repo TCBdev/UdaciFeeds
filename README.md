@@ -1,6 +1,6 @@
 # UdaciFeeds Feed Reader Testing
 
-* See live version here [UdaciFeeds](test). 
+* See live version here [UdaciFeeds](https://tcdev.github.io/UdaciFeeds/). 
 * The test will run once the page is loaded.
 * Results of the test will be dispayed at the bottom of the page 
 
